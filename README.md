@@ -1,37 +1,24 @@
-<h2 align="left">Hey there, I'm Anwesha — part-time coder, full-time curious (and maybe a little insane )👾</h2>
+# 💫 About Me:
+🔭 I’m currently refining on my C programming skills <br>🤝 I’m looking to collaborate on creative tech projects that combine design and functionality
 
-###
 
-<br clear="both">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anweshapradhan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=pradhanwesha&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=pradhanwesha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pradhanwesha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pradhanwesha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pradhanwesha&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradhanwesha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pradhanwesha&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<img align="left" height="150" src="https://media1.tenor.com/m/dSjY5Kb0zUIAAAAd/hadeel928-angry-cat.gif"  />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pradhanwesha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=pradhanwesha&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="90" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="90" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="90" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pradhanwesha.pradhanwesha&left_color=cadetblue&right_color=darkorchid&left_text=Profile%20Views"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
